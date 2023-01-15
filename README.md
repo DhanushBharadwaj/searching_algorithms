@@ -1,3 +1,3 @@
 # searching_algorithms
 
-### Small implementation of searching algorithms 
+### Basic implementation of searching algorithms 
